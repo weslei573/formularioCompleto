@@ -8,7 +8,7 @@
 }
 
 body{
-    background: #121212;
+    background: #021526;
     width: 100%;
     min-height: 100vh;
     display: flex;
@@ -27,7 +27,7 @@ body{
 }
 
 .header {
-    background: linear-gradient(120deg, #3acbfe 0%,  #8bb0ff 100%);
+    background: linear-gradient(120deg, #010024 0%,  #090979  100%);
     padding: 24px;
     text-align: center;
     color: #ffffff;
@@ -64,7 +64,7 @@ body{
 }
 
 .form button {
-    background-color: #00c3ff;
+    background-color: #090979;
     color: #fff;
     width: 100%;
     border-radius: 14px;
